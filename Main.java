@@ -48,8 +48,7 @@ public class Main {
                 word += c;
             }
         }
-        if (word != ""
-        ) {
+        if (word != "") {
             wordsBackwards.addFirst(word);
         }
 
